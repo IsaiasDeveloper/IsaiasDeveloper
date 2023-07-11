@@ -30,11 +30,11 @@
   <img align="center" alt="Isaias-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <!--   <img align="center" alt="Isaias-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> -->
   <img align="center" alt="Isaias-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <!-- Site for download icons: https://devicon.dev/ -->                              
+  <!-- Site for download icons: https://devicon.dev/ -->
 </div>
 <br>
-<div  align="center"> 
-  <a href="https://www.linkedin.com/in/isaiassantanadossantos/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div  align="center">
+  <a href="https://www.linkedin.com/in/isaiassantanadossantos/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://bit.ly/3qaz8kp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://www.youtube.com/channel/UCJN0HX-8PUtoQR1j6lc7P3g" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="external"></a>
   <a href = "mailto:isaiass@drmeducacao.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
@@ -46,3 +46,4 @@
 <h2 align="center">
   Directly to the World!
 </h2>
+![Snake animation](https://github.com/IsaiasSantanaDosSantos/IsaiasSantana/blob/output/github-contribution-grid-snake.svg)
