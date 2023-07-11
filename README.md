@@ -34,12 +34,14 @@
 </div>
 <br>
 <div  align="center">
+   <a href = "https://isaiassantana.com.br/"><img src="https://img.shields.io/badge/-WebPage-%23333?style=for-the-badge&color=yellow" target="_blank" rel="external"></a>
   <a href="https://www.linkedin.com/in/isaiassantanadossantos/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://bit.ly/3qaz8kp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://www.youtube.com/channel/UCJN0HX-8PUtoQR1j6lc7P3g" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="external"></a>
   <a href = "mailto:isaiass@drmeducacao.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
   <a href = "mailto:isaiass@drmeducacao.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
 <hr>
+ 
  <p align="center">
     <img width="200px" height="auto" src="src/assets/to_redme/ezgif.com-add-text.gif">
   </p>
