@@ -48,4 +48,5 @@
 <h2 align="center">
   Directly to the World!
 </h2>
+
 <!-- ![Snake animation](https://github.com/IsaiasDeveloper/blob/main/github-contribution-grid-snake.svg) NÃO FUNCIONOU AINDA -->
