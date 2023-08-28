@@ -51,8 +51,9 @@ A partir de 26 de agosto de 2023, este perfil não receberá mais atualizações
 Convido vocês a conferirem meu perfil principal, onde todos os meus projetos em andamento estão agora concentrados. Será ótimo tê-los visitando lá e ver seus feedbacks e sugestões nos projetos. Agradeço o apoio contínuo de todos e estou ansioso para continuar compartilhando meu trabalho com a comunidade GitHub.
 
 🔗 Meu perfil principal:<br/> [https://github.com/IsaiasSantanaDosSantos](https://github.com/IsaiasSantanaDosSantos)<br/>
-
-
+<hr>
+Obrigado! <br/>
+Isaias Santana dos Santos
 <hr>
 👋 Hello everyone!
 
